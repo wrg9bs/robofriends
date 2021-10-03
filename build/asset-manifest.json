@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robofred/static/css/main.ff5b0520.chunk.css",
+    "main.js": "/robofred/static/js/main.376d6914.chunk.js",
+    "main.js.map": "/robofred/static/js/main.376d6914.chunk.js.map",
+    "runtime-main.js": "/robofred/static/js/runtime-main.feea04d9.js",
+    "runtime-main.js.map": "/robofred/static/js/runtime-main.feea04d9.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robofred/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.08916422.chunk.js": "/robofred/static/js/2.08916422.chunk.js",
+    "static/js/2.08916422.chunk.js.map": "/robofred/static/js/2.08916422.chunk.js.map",
+    "static/js/3.2ea244ae.chunk.js": "/robofred/static/js/3.2ea244ae.chunk.js",
+    "static/js/3.2ea244ae.chunk.js.map": "/robofred/static/js/3.2ea244ae.chunk.js.map",
+    "index.html": "/robofred/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/robofred/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.ff5b0520.chunk.css.map": "/robofred/static/css/main.ff5b0520.chunk.css.map",
+    "static/js/2.08916422.chunk.js.LICENSE.txt": "/robofred/static/js/2.08916422.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/robofred/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feea04d9.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.08916422.chunk.js",
+    "static/css/main.ff5b0520.chunk.css",
+    "static/js/main.376d6914.chunk.js"
+  ]
+}
